@@ -1,9 +1,9 @@
-import SignupPage from "./SignupPage"
+import HomePage from './HomePage'
 
 function page() {
   return (
     <>
-      <SignupPage />
+      <HomePage />
     </>
   )
 }

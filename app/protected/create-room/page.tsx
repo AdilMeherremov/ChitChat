@@ -1,9 +1,9 @@
-import SignupPage from "./SignupPage"
+import CreateRoomPage from './CreateRoomPage'
 
 function page() {
   return (
     <>
-      <SignupPage />
+      <CreateRoomPage />
     </>
   )
 }
